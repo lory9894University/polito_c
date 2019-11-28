@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/lorenzodentis/OneDrive - Politecnico di Torino - IT/Attachments/scuola/algoritmi e programmazione/workspace/lab11/E 1/date.h
+
+C:/Users/lorenzodentis/OneDrive - Politecnico di Torino - IT/Attachments/scuola/algoritmi e programmazione/workspace/lab11/E 1/rating.c
+rating.h
+C:/Users/lorenzodentis/OneDrive - Politecnico di Torino - IT/Attachments/scuola/algoritmi e programmazione/workspace/lab11/E 1/rating.h
+math.h
+-
+string.h
+-
+stdlib.h
+-
+stdio.h
+-
+
+C:/Users/lorenzodentis/OneDrive - Politecnico di Torino - IT/Attachments/scuola/algoritmi e programmazione/workspace/lab11/E 1/rating.h
+date.h
+C:/Users/lorenzodentis/OneDrive - Politecnico di Torino - IT/Attachments/scuola/algoritmi e programmazione/workspace/lab11/E 1/date.h
+

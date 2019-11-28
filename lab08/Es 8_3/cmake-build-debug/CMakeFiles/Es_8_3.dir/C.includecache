@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/lorenzodentis/OneDrive - Politecnico di Torino - IT/Attachments/scuola/algoritmi e programmazione/workspace/lab08/Es 8_3/Item.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+Item.h
+C:/Users/lorenzodentis/OneDrive - Politecnico di Torino - IT/Attachments/scuola/algoritmi e programmazione/workspace/lab08/Es 8_3/Item.h
+
+C:/Users/lorenzodentis/OneDrive - Politecnico di Torino - IT/Attachments/scuola/algoritmi e programmazione/workspace/lab08/Es 8_3/Item.h
+
+C:/Users/lorenzodentis/OneDrive - Politecnico di Torino - IT/Attachments/scuola/algoritmi e programmazione/workspace/lab08/Es 8_3/PG.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+PG.h
+C:/Users/lorenzodentis/OneDrive - Politecnico di Torino - IT/Attachments/scuola/algoritmi e programmazione/workspace/lab08/Es 8_3/PG.h
+Item.h
+C:/Users/lorenzodentis/OneDrive - Politecnico di Torino - IT/Attachments/scuola/algoritmi e programmazione/workspace/lab08/Es 8_3/Item.h
+
+C:/Users/lorenzodentis/OneDrive - Politecnico di Torino - IT/Attachments/scuola/algoritmi e programmazione/workspace/lab08/Es 8_3/PG.h
+Item.h
+C:/Users/lorenzodentis/OneDrive - Politecnico di Torino - IT/Attachments/scuola/algoritmi e programmazione/workspace/lab08/Es 8_3/Item.h
+

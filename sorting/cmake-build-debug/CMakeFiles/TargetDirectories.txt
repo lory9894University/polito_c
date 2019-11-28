@@ -1,0 +1,3 @@
+/home/lorenzo/Scrivania/algoritmi e programmazione/workspace/algoritmi/sorting/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/lorenzo/Scrivania/algoritmi e programmazione/workspace/algoritmi/sorting/cmake-build-debug/CMakeFiles/sorting.dir
+/home/lorenzo/Scrivania/algoritmi e programmazione/workspace/algoritmi/sorting/cmake-build-debug/CMakeFiles/edit_cache.dir

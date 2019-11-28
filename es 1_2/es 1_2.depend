@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1538675150 source:c:\users\utente\desktop\es 1_2\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1538830233 source:c:\users\lory9\onedrive - politecnico di torino - it\attachments\scuola\algoritmi e programmazione\workspace\lab 1\es 1_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

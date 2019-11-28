@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/esplorazione_spazi_soluzioni.dir/main.c.o  -o esplorazione_spazi_soluzioni 

@@ -1,0 +1,48 @@
+14
+
+Alderaan
+Axii
+Azrael
+Bahamut
+Cassiel
+Coruscant
+Ifrit
+Igni
+Quen
+Ramuh
+Shiva
+Tatooine
+Uriel
+Yrden
+
+Ifrit Ramuh 3
+Yrden Axii 7
+Alderaan Uriel 3
+Uriel Shiva 9
+Bahamut Cassiel 11
+Cassiel Coruscant 10
+Coruscant Ifrit 10
+Ifrit Bahamut 10
+Axii Azrael 1
+Azrael Alderaan 1
+Uriel  Bahamut  99
+Uriel  Igni  45
+Igni  Tatooine  67
+Tatooine  Bahamut  12
+Axii  Igni  4
+Quen  Igni  8
+Shiva  Tatooine  32
+Ifrit  Tatooine  49
+Ramuh  Tatooine  32
+Shiva  Ifrit  46
+Quen  Coruscant  45
+Shiva  Alderaan  98
+Ifrit  Alderaan  46
+Ramuh  Alderaan  9
+Ramuh  Azrael  78
+Axii  Cassiel  84
+Shiva  Cassiel  24
+Shiva  Yrden  7
+Alderaan  Yrden  23
+Cassiel  Yrden  10
+Cassiel  Azrael  9

@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/lory9/OneDrive - Politecnico di Torino - IT/Attachments/scuola/algoritmi e programmazione/workspace/lab12/E01/DAG.c
+DAG.h
+C:/Users/lory9/OneDrive - Politecnico di Torino - IT/Attachments/scuola/algoritmi e programmazione/workspace/lab12/E01/DAG.h
+stdlib.h
+-
+
+C:/Users/lory9/OneDrive - Politecnico di Torino - IT/Attachments/scuola/algoritmi e programmazione/workspace/lab12/E01/DAG.h
+ST.h
+C:/Users/lory9/OneDrive - Politecnico di Torino - IT/Attachments/scuola/algoritmi e programmazione/workspace/lab12/E01/ST.h
+graph.h
+C:/Users/lory9/OneDrive - Politecnico di Torino - IT/Attachments/scuola/algoritmi e programmazione/workspace/lab12/E01/graph.h
+
+C:/Users/lory9/OneDrive - Politecnico di Torino - IT/Attachments/scuola/algoritmi e programmazione/workspace/lab12/E01/ST.h
+
+C:/Users/lory9/OneDrive - Politecnico di Torino - IT/Attachments/scuola/algoritmi e programmazione/workspace/lab12/E01/graph.h
+stdio.h
+-
+ST.h
+C:/Users/lory9/OneDrive - Politecnico di Torino - IT/Attachments/scuola/algoritmi e programmazione/workspace/lab12/E01/ST.h
+
+C:/Users/lory9/OneDrive - Politecnico di Torino - IT/Attachments/scuola/algoritmi e programmazione/workspace/lab12/E01/main.c
+stdio.h
+-
+stdlib.h
+-
+math.h
+-
+ST.h
+C:/Users/lory9/OneDrive - Politecnico di Torino - IT/Attachments/scuola/algoritmi e programmazione/workspace/lab12/E01/ST.h
+graph.h
+C:/Users/lory9/OneDrive - Politecnico di Torino - IT/Attachments/scuola/algoritmi e programmazione/workspace/lab12/E01/graph.h
+DAG.h
+C:/Users/lory9/OneDrive - Politecnico di Torino - IT/Attachments/scuola/algoritmi e programmazione/workspace/lab12/E01/DAG.h
+

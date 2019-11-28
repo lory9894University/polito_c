@@ -1,0 +1,3 @@
+C:/Users/lory9/OneDrive - Politecnico di Torino - IT/Attachments/scuola/algoritmi e programmazione/workspace/lab12/E01/cmake-build-debug/CMakeFiles/E01.dir
+C:/Users/lory9/OneDrive - Politecnico di Torino - IT/Attachments/scuola/algoritmi e programmazione/workspace/lab12/E01/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/lory9/OneDrive - Politecnico di Torino - IT/Attachments/scuola/algoritmi e programmazione/workspace/lab12/E01/cmake-build-debug/CMakeFiles/rebuild_cache.dir

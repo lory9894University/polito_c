@@ -1,0 +1,3 @@
+/home/lorenzo/Scrivania/algoritmi e programmazione/workspace/1 pacchetto/lab 1/es 1_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/lorenzo/Scrivania/algoritmi e programmazione/workspace/1 pacchetto/lab 1/es 1_1/cmake-build-debug/CMakeFiles/es_1_1.dir
+/home/lorenzo/Scrivania/algoritmi e programmazione/workspace/1 pacchetto/lab 1/es 1_1/cmake-build-debug/CMakeFiles/edit_cache.dir

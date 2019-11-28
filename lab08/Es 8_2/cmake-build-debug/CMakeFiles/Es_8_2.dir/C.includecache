@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/lorenzodentis/OneDrive - Politecnico di Torino - IT/Attachments/scuola/algoritmi e programmazione/workspace/lab08/Es 8_2/main.c
+stdio.h
+-
+stdlib.h
+-
+

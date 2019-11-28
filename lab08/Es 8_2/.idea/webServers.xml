@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="1fc18414-c3c7-4469-8f0c-c1c52b755089" name="prova" url="http://localhost">
+        <fileTransfer port="0" mountedRoot="C:\Users\lorenzodentis\OneDrive - Politecnico di Torino - IT\Attachments\scuola\algoritmi e programmazione\da consegnare" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,56 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/lory9/OneDrive - Politecnico di Torino - IT/Attachments/scuola/algoritmi e programmazione/workspace/lab10/E03/adj.c
+stdlib.h
+-
+stdio.h
+-
+string.h
+-
+adj.h
+C:/Users/lory9/OneDrive - Politecnico di Torino - IT/Attachments/scuola/algoritmi e programmazione/workspace/lab10/E03/adj.h
+
+C:/Users/lory9/OneDrive - Politecnico di Torino - IT/Attachments/scuola/algoritmi e programmazione/workspace/lab10/E03/adj.h
+calculators.h
+C:/Users/lory9/OneDrive - Politecnico di Torino - IT/Attachments/scuola/algoritmi e programmazione/workspace/lab10/E03/calculators.h
+
+C:/Users/lory9/OneDrive - Politecnico di Torino - IT/Attachments/scuola/algoritmi e programmazione/workspace/lab10/E03/calculators.c
+calculators.h
+C:/Users/lory9/OneDrive - Politecnico di Torino - IT/Attachments/scuola/algoritmi e programmazione/workspace/lab10/E03/calculators.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+
+C:/Users/lory9/OneDrive - Politecnico di Torino - IT/Attachments/scuola/algoritmi e programmazione/workspace/lab10/E03/calculators.h
+indexTable.h
+C:/Users/lory9/OneDrive - Politecnico di Torino - IT/Attachments/scuola/algoritmi e programmazione/workspace/lab10/E03/indexTable.h
+
+C:/Users/lory9/OneDrive - Politecnico di Torino - IT/Attachments/scuola/algoritmi e programmazione/workspace/lab10/E03/indexTable.c
+indexTable.h
+C:/Users/lory9/OneDrive - Politecnico di Torino - IT/Attachments/scuola/algoritmi e programmazione/workspace/lab10/E03/indexTable.h
+string.h
+-
+stdlib.h
+-
+
+C:/Users/lory9/OneDrive - Politecnico di Torino - IT/Attachments/scuola/algoritmi e programmazione/workspace/lab10/E03/indexTable.h
+
+C:/Users/lory9/OneDrive - Politecnico di Torino - IT/Attachments/scuola/algoritmi e programmazione/workspace/lab10/E03/main.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+adj.h
+C:/Users/lory9/OneDrive - Politecnico di Torino - IT/Attachments/scuola/algoritmi e programmazione/workspace/lab10/E03/adj.h
+
